@@ -5,6 +5,7 @@ Created with @dofidog.
 
 Raycast practice project. Contains two selectable characters.  
 Wall colouring is based on the direction (NSWE) the wall is perpendicular to.  
+Start menu was created with GIMP.
 
 
 
